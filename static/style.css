@@ -1,0 +1,7 @@
+body{
+	background: url("/static/food.jpg")
+}
+#container{
+	background: url("/static/food.jpg") no-repeat center top ;
+}
+#Wrapper { padding-top: 240px; }
